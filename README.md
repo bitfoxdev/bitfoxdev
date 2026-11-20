@@ -9,12 +9,6 @@ Hi! I'm a **Backend-focused Software Engineer** specializing in building fast, r
 - 🚀 **Exploring:** High-load systems, PostgreSQL internals, CI/CD
 - 🔒 *Most of my production code lives in private GitLab repositories.*
 
-<p>
-  <a href="https://t.me/username"><img src="https://img.shields.io/badge/-Telegram-161B22?style=flat-square&logo=telegram&logoColor=38BDF8" alt="Telegram"/></a>
-  <a href="https://linkedin.com/in/username"><img src="https://img.shields.io/badge/-LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=38BDF8" alt="LinkedIn"/></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/-Email-161B22?style=flat-square&logo=gmail&logoColor=38BDF8" alt="Email"/></a>
-</p>
-
 ---
 
 ### 🛠 Tech Stack
